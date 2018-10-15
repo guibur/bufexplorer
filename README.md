@@ -1,3 +1,9 @@
+Fork from official repo https://github.com/jlanzarotta/bufexplorer
+
+This fork is meant to follow the official repo with an adaptation of the mapping for the bépo keyboard layout.
+
+
+
 bufexplorer
 ===========
 
